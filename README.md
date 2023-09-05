@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-geny&label=Profile%20views&color=0e75b6&style=flat" alt="vijay-geny" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, APIs**
+- 🌱 I’m currently learning: **ReactJS, NodeJS, APIs**
 
-- 💬 Ask me about **Java, Web development, MySql**
+- 💬 Ask me about: **Java, Web development, MySql**
 
-- 📫 How to reach me **viijay1999@gmail.com**
+- 📫 How to reach me: **viijay1999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BkeWRToE0P6ZrDtXQne7wMdUkrYQFf1W/view?usp=drive_link](https://drive.google.com/file/d/1BkeWRToE0P6ZrDtXQne7wMdUkrYQFf1W/view?usp=drive_link)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1BkeWRToE0P6ZrDtXQne7wMdUkrYQFf1W/view?usp=drive_link](https://drive.google.com/file/d/1BkeWRToE0P6ZrDtXQne7wMdUkrYQFf1W/view?usp=drive_link)
 
-- ⚡ Fun fact **Caffeine is good for programmers ☕**
+- ⚡ Fun fact: **Caffeine is good for programmers ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
