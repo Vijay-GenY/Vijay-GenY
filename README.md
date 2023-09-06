@@ -1,5 +1,5 @@
-<h1>Hello, I'm Vijay 👋</h1>
-<h3>An Aspiring Software Engineer</h3>
+<h1 align="center">Hello, I'm Vijay 👋</h1>
+<h3 align="center">An Aspiring Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayv18&label=Profile%20views&color=0e75b6&style=flat" alt="vijayv18" /> </p>
 
